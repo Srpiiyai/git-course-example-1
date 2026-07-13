@@ -1,1 +1,1 @@
-# git-course-example-1
+This is just a file to practice GIT and putting changes on my remote repo
