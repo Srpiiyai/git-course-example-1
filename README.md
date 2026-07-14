@@ -44,10 +44,10 @@ Run the Project
 
 Example development workflow:
 
-git checkout -b feature/new-feature
-git add .
-git commit -m "Add new feature"
-git push origin feature/new-feature
+* git checkout -b feature/new-feature
+* git add .
+* git commit -m "Add new feature"
+* git push origin feature/new-feature
 
 Open a Pull Request on GitHub after pushing your branch.
 
